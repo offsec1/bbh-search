@@ -1,3 +1,8 @@
+app:
+  http:
+    api-key-header-name: x-api-key
+    api-key: testing
+
 spring:
   elasticsearch:
     rest:

@@ -17,6 +17,7 @@ dependencies {
     annotationProcessor 'org.projectlombok:lombok:1.18.18'
     implementation 'org.springframework.boot:spring-boot-starter'
     implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-security'
     implementation 'org.springframework.data:spring-data-elasticsearch'
 
     testCompileOnly 'org.projectlombok:lombok:1.18.18'
