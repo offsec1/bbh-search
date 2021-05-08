@@ -1,7 +1,7 @@
 app:
   http:
     api-key-header-name: x-api-key
-    api-key: testing
+    api-key: ${API_KEY}
 
 spring:
   elasticsearch:
